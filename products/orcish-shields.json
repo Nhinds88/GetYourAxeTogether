@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Orcish Small Shield",
+        "id": "sml_shield_orcish",
+        "description": "A small sturdy shield of Orcish make.",
+        "price": "500",
+        "Parry": "+3",
+        "cover": "-2",
+        "wt": "6",
+        "strreq": "d4",
+        "image": "#"
+    },
+    {
+        "title": "Orcish Medium Shield",
+        "id": "med_shield_orcish",
+        "description": "A sturdy shield of Orcish make.",
+        "price": "1000",
+        "Parry": "+4",
+        "cover": "-4",
+        "wt": "11",
+        "strreq": "d6",
+        "image": "#"
+    },
+    {
+        "title": "Orcish Large Shield",
+        "id": "lrg_shield_orcish",
+        "description": "A Large sturdy shield of Orcish make.",
+        "price": "2000",
+        "Parry": "+5",
+        "cover": "-6",
+        "wt": "16",
+        "strreq": "d8",
+        "image": "#"
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "title": "Orcish Hand Axe",
+        "id": "Orcish_hand_axe",
+        "description": "A hand axe of Orcish make.",
+        "price": "2000",
+        "Damage": "STR+d6+2",
+        "wt": "4",
+        "strreq": "d6",
+        "notes": "",
+        "image": "#"
+    },
+    {
+        "title": "Orcish Battle Axe",
+        "id": "Orcish_battle_axe",
+        "description": "A battle axe of Orcish make.",
+        "price": "6000",
+        "Damage": "STR+d8+2",
+        "wt": "8",
+        "strreq": "d8",
+        "notes": "",
+        "image": "#"
+    },
+    {
+        "title": "Orcish Great Axe",
+        "id": "Orcish_great_axe",
+        "description": "A great axe of Orcish make.",
+        "price": "8000",
+        "Damage": "STR+d10+2",
+        "wt": "14",
+        "strreq": "d10",
+        "notes": "AP2, Parry-1, 2H",
+        "image": "#"
+    },
+    {
+        "title": "Orcish Throwing Axe",
+        "id": "Orcish_throwing_axe",
+        "description": "A throwing axe of Orcish make.",
+        "price": "2000",
+        "Damage": "STR+d6+2",
+        "wt": "6",
+        "strreq": "d6",
+        "notes": "3/6/12",
+        "image": "#"
+    },
+    {
+        "title": "Orcish Dagger/Knife",
+        "id": "Orcish_dagger",
+        "description": "A dagger/knife of Orcish make.",
+        "price": "500",
+        "Damage": "STR+d4+2",
+        "wt": "2",
+        "strreq": "d4",
+        "notes": "",
+        "image": "#"
+    },
+    {
+        "title": "Orcish Throwing Knife",
+        "id": "Orcish_throwing_knife",
+        "description": "A throwing knife of Orcish make.",
+        "price": "500",
+        "Damage": "STR+d4+2",
+        "wt": "2",
+        "strreq": "d4",
+        "notes": "3/6/12",
+        "image": "#"
+    },
+    {
+        "title": "Orcish Flail",
+        "id": "Orcish_flail",
+        "description": "A flail of Orcish make.",
+        "price": "4000",
+        "Damage": "STR+d6+2",
+        "wt": "6",
+        "strreq": "d6",
+        "notes": "Ignores Shield Bonus",
+        "image": "#"
+    },
+    {
+        "title": "Orcish Halberd",
+        "id": "Orcish_halberd",
+        "description": "A halberd of Orcish make.",
+        "price": "5000",
+        "Damage": "STR+d8+2",
+        "wt": "12",
+        "strreq": "d8",
+        "notes": "Reach 1, 2H",
+        "image": "#"
+    },
+    {
+        "title": "Orcish Katana",
+        "id": "Orcish_katana",
+        "description": "A katana of Orcish make.",
+        "price": "20000",
+        "Damage": "STR+d6+3",
+        "wt": "6",
+        "strreq": "d6",
+        "notes": "2H",
+        "image": "#"
+    },
+    {
+        "title": "Orcish Lance",
+        "id": "Orcish_lance",
+        "description": "A lance of Orcish make.",
+        "price": "6000",
+        "Damage": "STR+d8+2",
+        "wt": "12",
+        "strreq": "d8",
+        "notes": "AP2 while charging, Reach 2 when mounted",
+        "image": "#"
+    },
+    {
+        "title": "Orcish Mace",
+        "id": "Orcish_mace",
+        "description": "A mace of Orcish make.",
+        "price": "2000",
+        "Damage": "STR+d6+2",
+        "wt": "8",
+        "strreq": "d6",
+        "notes": "",
+        "image": "#"
+    },
+    {
+        "title": "Orcish Maul",
+        "id": "Orcish_maul",
+        "description": "A maul of Orcish make.",
+        "price": "8000",
+        "Damage": "STR+d10+2",
+        "wt": "20",
+        "strreq": "d10",
+        "notes": "2H, +2 to break object",
+        "image": "#"
+    },
+    {
+        "title": "Orcish Pike",
+        "id": "Orcish_pike",
+        "description": "A pike of Orcish make.",
+        "price": "8000",
+        "Damage": "STR+d8+2",
+        "wt": "36",
+        "strreq": "d8",
+        "notes": "Reach 2, 2H",
+        "image": "#"
+    },
+    {
+        "title": "Orcish Rapier",
+        "id": "Orcish_rapier",
+        "description": "A rapier of Orcish make.",
+        "price": "3000",
+        "Damage": "STR+d4+2",
+        "wt": "4",
+        "strreq": "d4",
+        "notes": "Parry +1",
+        "image": "#"
+    },
+    {
+        "title": "Orcish Spear",
+        "id": "Orcish_spear",
+        "description": "A spear of Orcish make.",
+        "price": "2000",
+        "Damage": "STR+d6+2",
+        "wt": "6",
+        "strreq": "d6",
+        "notes": "Reach 1, Parry +1, if used as 2H",
+        "image": "#"
+    },
+    {
+        "title": "Orcish Throwing Spear/Javelin",
+        "id": "Orcish_javelin",
+        "description": "A throwing spear/javelin of Orcish make.",
+        "price": "2000",
+        "Damage": "STR+d6+2",
+        "wt": "6",
+        "strreq": "d6",
+        "notes": "3/6/12, AP 2 on a raise",
+        "image": "#"
+    },
+    {
+        "title": "Orcish Short Sword",
+        "id": "Orcish_short_sword",
+        "description": "A short sword of Orcish make.",
+        "price": "2000",
+        "Damage": "STR+d6+2",
+        "wt": "4",
+        "strreq": "d6",
+        "notes": "Includes cavalary sabers",
+        "image": "#"
+    },
+    {
+        "title": "Orcish Long Sword",
+        "id": "Orcish_long_sword",
+        "description": "A long sword of Orcish make.",
+        "price": "6000",
+        "Damage": "STR+d8+2",
+        "wt": "6",
+        "strreq": "d8",
+        "notes": "Basic swords and Scimitars",
+        "image": "#"
+    },
+    {
+        "title": "Orcish Great Sword",
+        "id": "Orcish_great_sword",
+        "description": "A great sword of Orcish make.",
+        "price": "8000",
+        "Damage": "STR+d10+2",
+        "wt": "12",
+        "strreq": "d10",
+        "notes": "2H",
+        "image": "#"
+    },
+    {
+        "title": "Orcish Warhammer",
+        "id": "Orcish_warhammer",
+        "description": "A warhammer of Orcish make.",
+        "price": "5000",
+        "Damage": "STR+d6+2",
+        "wt": "4",
+        "strreq": "d6",
+        "notes": "Spiked, AP",
+        "image": "#"
+    }
+]

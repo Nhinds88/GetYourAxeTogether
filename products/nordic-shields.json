@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Nordic Small Shield",
+        "id": "sml_shield_nordic",
+        "description": "A small sturdy shield of Nordic make.",
+        "price": "150",
+        "Parry": "+2",
+        "cover": "-1",
+        "wt": "5",
+        "strreq": "d4",
+        "image": "#"
+    },
+    {
+        "title": "Nordic Medium Shield",
+        "id": "med_shield_nordic",
+        "description": "A sturdy shield of Nordic make.",
+        "price": "300",
+        "Parry": "+3",
+        "cover": "-3",
+        "wt": "10",
+        "strreq": "d6",
+        "image": "#"
+    },
+    {
+        "title": "Nordic Large Shield",
+        "id": "lrg_shield_nordic",
+        "description": "A Large sturdy shield of Nordic make.",
+        "price": "600",
+        "Parry": "+4",
+        "cover": "-5",
+        "wt": "14",
+        "strreq": "d8",
+        "image": "#"
+    }
+]

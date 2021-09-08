@@ -1,0 +1,206 @@
+[
+    {
+        "title": "Steel Corselet(Torso)",
+        "id": "corselet_steel",
+        "description": "A medium armored corselet of common make.",
+        "price": "80",
+        "armor": "+3",
+        "wt": "13",
+        "strreq": "d8",
+        "image": "#"
+    },
+    {
+        "title": "Steel Vambraces(Arms)",
+        "id": "vambraces_steel",
+        "description": "A medium armored vambraces of common make.",
+        "price": "40",
+        "armor": "+3",
+        "wt": "5",
+        "strreq": "d8",
+        "image": "#"
+    },
+    {
+        "title": "Steel Greaves(Legs)",
+        "id": "greaves_steel",
+        "description": "A medium armored greaves of common make.",
+        "price": "50",
+        "armor": "+3",
+        "wt": "6",
+        "strreq": "d8",
+        "image": "#"
+    },
+    {
+        "title": "Steel Helmet(Head)",
+        "id": "helmet_steel",
+        "description": "A medium armored helmet of common make.",
+        "price": "25",
+        "Parry": "+3",
+        "wt": "6",
+        "strreq": "d8",
+        "image": "#"
+    },
+    
+    {
+        "title": "Elven Corselet(Torso)",
+        "id": "corselet_evlen",
+        "description": "A medium armored corselet of Elvish make.",
+        "price": "120",
+        "armor": "+3",
+        "wt": "10",
+        "strreq": "d8",
+        "image": "#"
+    },
+    {
+        "title": "Elven Vambraces(Arms)",
+        "id": "vambraces_elven",
+        "description": "A medium armored vambraces of Elvish make.",
+        "price": "60",
+        "armor": "+3",
+        "wt": "4",
+        "strreq": "d8",
+        "image": "#"
+    },
+    {
+        "title": "Elven Greaves(Legs)",
+        "id": "greaves_elven",
+        "description": "A medium armored greaves of Elvish make.",
+        "price": "75",
+        "armor": "+3",
+        "wt": "5",
+        "strreq": "d8",
+        "image": "#"
+    },
+    {
+        "title": "Elven Helmet(Head)",
+        "id": "helmet_elven",
+        "description": "A medium armored helmet of Elvish make.",
+        "price": "38",
+        "Parry": "+3",
+        "wt": "5",
+        "strreq": "d8",
+        "image": "#"
+    }, 
+    
+    {
+        "title": "Dwarven Corselet(Torso)",
+        "id": "corselet_dwarven",
+        "description": "A medium armored corselet of Dwarven make.",
+        "price": "240",
+        "armor": "+4",
+        "wt": "16",
+        "strreq": "d8",
+        "image": "#"
+    },
+    {
+        "title": "Dwarven Vambraces(Arms)",
+        "id": "vambraces_dwarven",
+        "description": "A medium armored vambraces of Dwarven make.",
+        "price": "120",
+        "armor": "+4",
+        "wt": "6",
+        "strreq": "d8",
+        "image": "#"
+    },
+    {
+        "title": "Dwarven Greaves(Legs)",
+        "id": "greaves_dwarven",
+        "description": "A medium armored greaves of Dwarven make.",
+        "price": "150",
+        "armor": "+4",
+        "wt": "7",
+        "strreq": "d8",
+        "image": "#"
+    },
+    {
+        "title": "Dwarven Helmet(Head)",
+        "id": "helmet_dwarven",
+        "description": "A medium armored helmet of Dwarven make.",
+        "price": "75",
+        "Parry": "+4",
+        "wt": "7",
+        "strreq": "d8",
+        "image": "#"
+    },
+    
+    {
+        "title": "Glass Corselet(Torso)",
+        "id": "corselet_glass",
+        "description": "A medium armored corselet of Glass make.",
+        "price": "400",
+        "armor": "+4",
+        "wt": "13",
+        "strreq": "d8",
+        "image": "#"
+    },
+    {
+        "title": "Glass Vambraces(Arms)",
+        "id": "vambraces_glass",
+        "description": "A medium armored vambraces of Glass make.",
+        "price": "200",
+        "armor": "+4",
+        "wt": "5",
+        "strreq": "d8",
+        "image": "#"
+    },
+    {
+        "title": "Glass Greaves(Legs)",
+        "id": "greaves_glass",
+        "description": "A medium armored greaves of Glass make.",
+        "price": "250",
+        "armor": "+4",
+        "wt": "6",
+        "strreq": "d8",
+        "image": "#"
+    },
+    {
+        "title": "Glass Helmet(Head)",
+        "id": "helmet_glass",
+        "description": "A medium armored helmet of Glass make.",
+        "price": "125",
+        "Parry": "+4",
+        "wt": "6",
+        "strreq": "d8",
+        "image": "#"
+    }, 
+    
+    {
+        "title": "Orcish Corselet(Torso)",
+        "id": "corselet_orcish",
+        "description": "A medium armored corselet of Orcish make.",
+        "price": "800",
+        "armor": "+5",
+        "wt": "18",
+        "strreq": "d8",
+        "image": "#"
+    },
+    {
+        "title": "Orcish Vambraces(Arms)",
+        "id": "vambraces_orcish",
+        "description": "A medium armored vambraces of Orcish make.",
+        "price": "400",
+        "armor": "+5",
+        "wt": "7",
+        "strreq": "d8",
+        "image": "#"
+    },
+    {
+        "title": "Orcish Greaves(Legs)",
+        "id": "greaves_orcish",
+        "description": "A medium armored greaves of Orcish make.",
+        "price": "500",
+        "armor": "+5",
+        "wt": "8",
+        "strreq": "d8",
+        "image": "#"
+    },
+    {
+        "title": "Orcish Helmet(Head)",
+        "id": "helmet_orcish",
+        "description": "A medium armored helmet of Orcish make.",
+        "price": "250",
+        "Parry": "+5",
+        "wt": "8",
+        "strreq": "d8",
+        "image": "#"
+    }
+]

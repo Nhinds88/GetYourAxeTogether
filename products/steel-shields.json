@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Steel Small Shield",
+        "id": "sml_shield_steel",
+        "description": "A small sturdy shield of common make.",
+        "price": "50",
+        "Parry": "+1",
+        "cover": "0",
+        "wt": "4",
+        "strreq": "d4",
+        "image": "#"
+    },
+    {
+        "title": "Steel Medium Shield",
+        "id": "med_shield_steel",
+        "description": "A sturdy shield of common make.",
+        "price": "100",
+        "Parry": "+2",
+        "cover": "-2",
+        "wt": "8",
+        "strreq": "d6",
+        "image": "#"
+    },
+    {
+        "title": "Steel Large Shield",
+        "id": "lrg_shield_steel",
+        "description": "A Large sturdy shield of common make.",
+        "price": "200",
+        "Parry": "+3",
+        "cover": "-4",
+        "wt": "12",
+        "strreq": "d8",
+        "image": "#"
+    }
+]

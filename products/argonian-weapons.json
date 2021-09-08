@@ -1,0 +1,222 @@
+[
+    {
+        "title": "Argonian Hand Axe",
+        "id": "Argonian_hand_axe",
+        "description": "A hand axe of Argonian make.",
+        "price": "300",
+        "Damage": "STR+d6+1",
+        "wt": "2",
+        "strreq": "d6",
+        "notes": "",
+        "image": "#"
+    },
+    {
+        "title": "Argonian Battle Axe",
+        "id": "Argonian_battle_axe",
+        "description": "A battle axe of Argonian make.",
+        "price": "900",
+        "Damage": "STR+d8+1",
+        "wt": "4",
+        "strreq": "d8",
+        "notes": "",
+        "image": "#"
+    },
+    {
+        "title": "Argonian Great Axe",
+        "id": "Argonian_great_axe",
+        "description": "A great axe of Argonian make.",
+        "price": "1200",
+        "Damage": "STR+d10+1",
+        "wt": "7",
+        "strreq": "d10",
+        "notes": "AP2, Parry-1, 2H",
+        "image": "#"
+    },
+    {
+        "title": "Argonian Throwing Axe",
+        "id": "Argonian_throwing_axe",
+        "description": "A throwing axe of Argonian make.",
+        "price": "300",
+        "Damage": "STR+d6+1",
+        "wt": "3",
+        "strreq": "d6",
+        "notes": "3/6/12",
+        "image": "#"
+    },
+    {
+        "title": "Argonian Dagger/Knife",
+        "id": "Argonian_dagger",
+        "description": "A dagger/knife of Argonian make.",
+        "price": "75",
+        "Damage": "STR+d4+1",
+        "wt": "1",
+        "strreq": "d4",
+        "notes": "",
+        "image": "#"
+    },
+    {
+        "title": "Argonian Throwing Knife",
+        "id": "Argonian_throwing_knife",
+        "description": "A throwing knife of Argonian make.",
+        "price": "75",
+        "Damage": "STR+d4+1",
+        "wt": "1",
+        "strreq": "d4",
+        "notes": "3/6/12",
+        "image": "#"
+    },
+    {
+        "title": "Argonian Flail",
+        "id": "Argonian_flail",
+        "description": "A flail of Argonian make.",
+        "price": "600",
+        "Damage": "STR+d6+1",
+        "wt": "3",
+        "strreq": "d6",
+        "notes": "Ignores Shield Bonus",
+        "image": "#"
+    },
+    {
+        "title": "Argonian Halberd",
+        "id": "Argonian_halberd",
+        "description": "A halberd of Argonian make.",
+        "price": "750",
+        "Damage": "STR+d8+1",
+        "wt": "6",
+        "strreq": "d8",
+        "notes": "Reach 1, 2H",
+        "image": "#"
+    },
+    {
+        "title": "Argonian Katana",
+        "id": "Argonian_katana",
+        "description": "A katana of Argonian make.",
+        "price": "3000",
+        "Damage": "STR+d6+2",
+        "wt": "3",
+        "strreq": "d6",
+        "notes": "2H",
+        "image": "#"
+    },
+    {
+        "title": "Argonian Lance",
+        "id": "Argonian_lance",
+        "description": "A lance of Argonian make.",
+        "price": "900",
+        "Damage": "STR+d8+1",
+        "wt": "6",
+        "strreq": "d8",
+        "notes": "AP2 while charging, Reach 2 when mounted",
+        "image": "#"
+    },
+    {
+        "title": "Argonian Mace",
+        "id": "Argonian_mace",
+        "description": "A mace of Argonian make.",
+        "price": "300",
+        "Damage": "STR+d6+1",
+        "wt": "4",
+        "strreq": "d6",
+        "notes": "",
+        "image": "#"
+    },
+    {
+        "title": "Argonian Maul",
+        "id": "Argonian_maul",
+        "description": "A maul of Argonian make.",
+        "price": "1200",
+        "Damage": "STR+d10+1",
+        "wt": "10",
+        "strreq": "d10",
+        "notes": "2H, +2 to break object",
+        "image": "#"
+    },
+    {
+        "title": "Argonian Pike",
+        "id": "Argonian_pike",
+        "description": "A pike of Argonian make.",
+        "price": "1200",
+        "Damage": "STR+d8+1",
+        "wt": "18",
+        "strreq": "d8",
+        "notes": "Reach 2, 2H",
+        "image": "#"
+    },
+    {
+        "title": "Argonian Rapier",
+        "id": "Argonian_rapier",
+        "description": "A rapier of Argonian make.",
+        "price": "450",
+        "Damage": "STR+d4+1",
+        "wt": "2",
+        "strreq": "d4",
+        "notes": "Parry +1",
+        "image": "#"
+    },
+    {
+        "title": "Argonian Spear",
+        "id": "Argonian_spear",
+        "description": "A spear of Argonian make.",
+        "price": "300",
+        "Damage": "STR+d6+1",
+        "wt": "3",
+        "strreq": "d6",
+        "notes": "Reach 1, Parry +1, if used as 2H",
+        "image": "#"
+    },
+    {
+        "title": "Argonian Throwing Spear/Javelin",
+        "id": "Argonian_javelin",
+        "description": "A throwing spear/javelin of Argonian make.",
+        "price": "300",
+        "Damage": "STR+d6+1",
+        "wt": "3",
+        "strreq": "d6",
+        "notes": "3/6/12",
+        "image": "#"
+    },
+    {
+        "title": "Argonian Short Sword",
+        "id": "Argonian_short_sword",
+        "description": "A short sword of Argonian make.",
+        "price": "300",
+        "Damage": "STR+d6+1",
+        "wt": "2",
+        "strreq": "d6",
+        "notes": "Includes cavalary sabers",
+        "image": "#"
+    },
+    {
+        "title": "Argonian Long Sword",
+        "id": "Argonian_long_sword",
+        "description": "A long sword of Argonian make.",
+        "price": "900",
+        "Damage": "STR+d8+1",
+        "wt": "3",
+        "strreq": "d8",
+        "notes": "Basic swords and Scimitars",
+        "image": "#"
+    },
+    {
+        "title": "Argonian Great Sword",
+        "id": "Argonian_great_sword",
+        "description": "A great sword of Argonian make.",
+        "price": "1200",
+        "Damage": "STR+d10+1",
+        "wt": "6",
+        "strreq": "d10",
+        "notes": "2H",
+        "image": "#"
+    },
+    {
+        "title": "Argonian Warhammer",
+        "id": "Argonian_warhammer",
+        "description": "A warhammer of Argonian make.",
+        "price": "750",
+        "Damage": "STR+d6+1",
+        "wt": "2",
+        "strreq": "d6",
+        "notes": "Spiked, AP",
+        "image": "#"
+    }
+]

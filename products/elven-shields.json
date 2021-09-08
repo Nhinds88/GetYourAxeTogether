@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Elven Small Shield",
+        "id": "sml_shield_elven",
+        "description": "A small sturdy shield of Elvish make.",
+        "price": "75",
+        "Parry": "+1",
+        "cover": "0",
+        "wt": "3",
+        "strreq": "d4",
+        "image": "#"
+    },
+    {
+        "title": "Elven Medium Shield",
+        "id": "med_shield_elven",
+        "description": "A sturdy shield of Elvish make.",
+        "price": "150",
+        "Parry": "+2",
+        "cover": "-2",
+        "wt": "6",
+        "strreq": "d6",
+        "image": "#"
+    },
+    {
+        "title": "Elven Large Shield",
+        "id": "lrg_shield_elven",
+        "description": "A Large sturdy shield of Elvish make.",
+        "price": "300",
+        "Parry": "+3",
+        "cover": "-4",
+        "wt": "10",
+        "strreq": "d8",
+        "image": "#"
+    }
+]

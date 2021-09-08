@@ -1,0 +1,222 @@
+[
+    {
+        "title": "Nordic Hand Axe",
+        "id": "Nordic_hand_axe",
+        "description": "A hand axe of Nordic make.",
+        "price": "1000",
+        "Damage": "STR+d6+2",
+        "wt": "4",
+        "strreq": "d6",
+        "notes": "",
+        "image": "#"
+    },
+    {
+        "title": "Nordic Battle Axe",
+        "id": "Nordic_battle_axe",
+        "description": "A battle axe of Nordic make.",
+        "price": "3000",
+        "Damage": "STR+d8+2",
+        "wt": "7",
+        "strreq": "d8",
+        "notes": "",
+        "image": "#"
+    },
+    {
+        "title": "Nordic Great Axe",
+        "id": "Nordic_great_axe",
+        "description": "A great axe of Nordic make.",
+        "price": "4000",
+        "Damage": "STR+d10+2",
+        "wt": "13",
+        "strreq": "d10",
+        "notes": "AP2, Parry-1, 2H",
+        "image": "#"
+    },
+    {
+        "title": "Nordic Throwing Axe",
+        "id": "Nordic_throwing_axe",
+        "description": "A throwing axe of Nordic make.",
+        "price": "250",
+        "Damage": "STR+d6+2",
+        "wt": "5",
+        "strreq": "d6",
+        "notes": "3/6/12",
+        "image": "#"
+    },
+    {
+        "title": "Nordic Dagger/Knife",
+        "id": "Nordic_dagger",
+        "description": "A dagger/knife of Nordic make.",
+        "price": "250",
+        "Damage": "STR+d4+2",
+        "wt": "2",
+        "strreq": "d4",
+        "notes": "",
+        "image": "#"
+    },
+    {
+        "title": "Nordic Throwing Knife",
+        "id": "Nordic_throwing_knife",
+        "description": "A throwing knife of Nordic make.",
+        "price": "250",
+        "Damage": "STR+d4+2",
+        "wt": "2",
+        "strreq": "d4",
+        "notes": "3/6/12",
+        "image": "#"
+    },
+    {
+        "title": "Nordic Flail",
+        "id": "Nordic_flail",
+        "description": "A flail of Nordic make.",
+        "price": "2000",
+        "Damage": "STR+d6+2",
+        "wt": "5",
+        "strreq": "d6",
+        "notes": "Ignores Shield Bonus",
+        "image": "#"
+    },
+    {
+        "title": "Nordic Halberd",
+        "id": "Nordic_halberd",
+        "description": "A halberd of Nordic make.",
+        "price": "2500",
+        "Damage": "STR+d8+2",
+        "wt": "10",
+        "strreq": "d8",
+        "notes": "Reach 1, 2H",
+        "image": "#"
+    },
+    {
+        "title": "Nordic Katana",
+        "id": "Nordic_katana",
+        "description": "A katana of Nordic make.",
+        "price": "10000",
+        "Damage": "STR+d6+3",
+        "wt": "5",
+        "strreq": "d6",
+        "notes": "2H",
+        "image": "#"
+    },
+    {
+        "title": "Nordic Lance",
+        "id": "Nordic_lance",
+        "description": "A lance of Nordic make.",
+        "price": "3000",
+        "Damage": "STR+d8+2",
+        "wt": "11",
+        "strreq": "d8",
+        "notes": "AP2 while charging, Reach 2 when mounted",
+        "image": "#"
+    },
+    {
+        "title": "Nordic Mace",
+        "id": "Nordic_mace",
+        "description": "A mace of Nordic make.",
+        "price": "1000",
+        "Damage": "STR+d6+2",
+        "wt": "7",
+        "strreq": "d6",
+        "notes": "",
+        "image": "#"
+    },
+    {
+        "title": "Nordic Maul",
+        "id": "Nordic_maul",
+        "description": "A maul of Nordic make.",
+        "price": "4000",
+        "Damage": "STR+d10+2",
+        "wt": "18",
+        "strreq": "d10",
+        "notes": "2H, +2 to break object",
+        "image": "#"
+    },
+    {
+        "title": "Nordic Pike",
+        "id": "Nordic_pike",
+        "description": "A pike of Nordic make.",
+        "price": "4000",
+        "Damage": "STR+d8+2",
+        "wt": "32",
+        "strreq": "d8",
+        "notes": "Reach 2, 2H",
+        "image": "#"
+    },
+    {
+        "title": "Nordic Rapier",
+        "id": "Nordic_rapier",
+        "description": "A rapier of Nordic make.",
+        "price": "1500",
+        "Damage": "STR+d4+2",
+        "wt": "4",
+        "strreq": "d4",
+        "notes": "Parry +1",
+        "image": "#"
+    },
+    {
+        "title": "Nordic Spear",
+        "id": "Nordic_spear",
+        "description": "A spear of Nordic make.",
+        "price": "1000",
+        "Damage": "STR+d6+2",
+        "wt": "5",
+        "strreq": "d6",
+        "notes": "Reach 1, Parry +1, if used as 2H",
+        "image": "#"
+    },
+    {
+        "title": "Nordic Throwing Spear/Javelin",
+        "id": "Nordic_javelin",
+        "description": "A throwing spear/javelin of Nordic make.",
+        "price": "1000",
+        "Damage": "STR+d6+2",
+        "wt": "5",
+        "strreq": "d6",
+        "notes": "3/6/12, AP 2 on a raise",
+        "image": "#"
+    },
+    {
+        "title": "Nordic Short Sword",
+        "id": "Nordic_short_sword",
+        "description": "A short sword of Nordic make.",
+        "price": "1000",
+        "Damage": "STR+d6+2",
+        "wt": "4",
+        "strreq": "d6",
+        "notes": "Includes cavalary sabers",
+        "image": "#"
+    },
+    {
+        "title": "Nordic Long Sword",
+        "id": "Nordic_long_sword",
+        "description": "A long sword of Nordic make.",
+        "price": "3000",
+        "Damage": "STR+d8+2",
+        "wt": "5",
+        "strreq": "d8",
+        "notes": "Basic swords and Scimitars",
+        "image": "#"
+    },
+    {
+        "title": "Nordic Great Sword",
+        "id": "Nordic_great_sword",
+        "description": "A great sword of Nordic make.",
+        "price": "4000",
+        "Damage": "STR+d10+2",
+        "wt": "11",
+        "strreq": "d10",
+        "notes": "2H",
+        "image": "#"
+    },
+    {
+        "title": "Nordic Warhammer",
+        "id": "Nordic_warhammer",
+        "description": "A warhammer of Nordic make.",
+        "price": "2500",
+        "Damage": "STR+d6+2",
+        "wt": "4",
+        "strreq": "d6",
+        "notes": "Spiked, AP",
+        "image": "#"
+    }
+]

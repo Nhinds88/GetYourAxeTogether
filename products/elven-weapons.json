@@ -1,0 +1,222 @@
+[
+    {
+        "title": "Elven Hand Axe",
+        "id": "Elven_hand_axe",
+        "description": "A hand axe of Elvish make.",
+        "price": "500",
+        "Damage": "STR+d6+1",
+        "wt": "2",
+        "strreq": "d6",
+        "notes": "",
+        "image": "#"
+    },
+    {
+        "title": "Elven Battle Axe",
+        "id": "Elven_battle_axe",
+        "description": "A battle axe of Elvish make.",
+        "price": "1500",
+        "Damage": "STR+d8+1",
+        "wt": "3",
+        "strreq": "d8",
+        "notes": "",
+        "image": "#"
+    },
+    {
+        "title": "Elven Great Axe",
+        "id": "Elven_great_axe",
+        "description": "A great axe of Elvish make.",
+        "price": "2000",
+        "Damage": "STR+d10+1",
+        "wt": "6",
+        "strreq": "d10",
+        "notes": "AP2, Parry-1, 2H",
+        "image": "#"
+    },
+    {
+        "title": "Elven Throwing Axe",
+        "id": "Elven_throwing_axe",
+        "description": "A throwing axe of Elvish make.",
+        "price": "500",
+        "Damage": "STR+d6+1",
+        "wt": "2",
+        "strreq": "d6",
+        "notes": "3/6/12",
+        "image": "#"
+    },
+    {
+        "title": "Elven Dagger/Knife",
+        "id": "Elven_dagger",
+        "description": "A dagger/knife of Elvish make.",
+        "price": "125",
+        "Damage": "STR+d4+1",
+        "wt": "1",
+        "strreq": "d4",
+        "notes": "",
+        "image": "#"
+    },
+    {
+        "title": "Elven Throwing Knife",
+        "id": "Elven_throwing_knife",
+        "description": "A throwing knife of Elvish make.",
+        "price": "125",
+        "Damage": "STR+d4+1",
+        "wt": "1",
+        "strreq": "d4",
+        "notes": "3/6/12",
+        "image": "#"
+    },
+    {
+        "title": "Elven Flail",
+        "id": "Elven_flail",
+        "description": "A flail of Elvish make.",
+        "price": "1000",
+        "Damage": "STR+d6+1",
+        "wt": "2",
+        "strreq": "d6",
+        "notes": "Ignores Shield Bonus",
+        "image": "#"
+    },
+    {
+        "title": "Elven Halberd",
+        "id": "Elven_halberd",
+        "description": "A halberd of Elvish make.",
+        "price": "1250",
+        "Damage": "STR+d8+1",
+        "wt": "5",
+        "strreq": "d8",
+        "notes": "Reach 1, 2H",
+        "image": "#"
+    },
+    {
+        "title": "Elven Katana",
+        "id": "Elven_katana",
+        "description": "A katana of Elvish make.",
+        "price": "5000",
+        "Damage": "STR+d6+2",
+        "wt": "2",
+        "strreq": "d6",
+        "notes": "2H",
+        "image": "#"
+    },
+    {
+        "title": "Elven Lance",
+        "id": "Elven_lance",
+        "description": "A lance of Elvish make.",
+        "price": "1500",
+        "Damage": "STR+d8+1",
+        "wt": "5",
+        "strreq": "d8",
+        "notes": "AP2 while charging, Reach 2 when mounted",
+        "image": "#"
+    },
+    {
+        "title": "Elven Mace",
+        "id": "Elven_mace",
+        "description": "A mace of Elvish make.",
+        "price": "500",
+        "Damage": "STR+d6+1",
+        "wt": "3",
+        "strreq": "d6",
+        "notes": "",
+        "image": "#"
+    },
+    {
+        "title": "Elven Maul",
+        "id": "Elven_maul",
+        "description": "A maul of Elvish make.",
+        "price": "2000",
+        "Damage": "STR+d10+1",
+        "wt": "8",
+        "strreq": "d10",
+        "notes": "2H, +2 to break object",
+        "image": "#"
+    },
+    {
+        "title": "Elven Pike",
+        "id": "Elven_pike",
+        "description": "A pike of Elvish make.",
+        "price": "2000",
+        "Damage": "STR+d8+1",
+        "wt": "14",
+        "strreq": "d8",
+        "notes": "Reach 2, 2H",
+        "image": "#"
+    },
+    {
+        "title": "Elven Rapier",
+        "id": "Elven_rapier",
+        "description": "A rapier of Elvish make.",
+        "price": "750",
+        "Damage": "STR+d4+1",
+        "wt": "2",
+        "strreq": "d4",
+        "notes": "Parry +1",
+        "image": "#"
+    },
+    {
+        "title": "Elven Spear",
+        "id": "Elven_spear",
+        "description": "A spear of Elvish make.",
+        "price": "500",
+        "Damage": "STR+d6+1",
+        "wt": "2",
+        "strreq": "d6",
+        "notes": "Reach 1, Parry +1, if used as 2H",
+        "image": "#"
+    },
+    {
+        "title": "Elven Throwing Spear/Javelin",
+        "id": "Elven_javelin",
+        "description": "A throwing spear/javelin of Elvish make.",
+        "price": "500",
+        "Damage": "STR+d6+1",
+        "wt": "2",
+        "strreq": "d6",
+        "notes": "3/6/12, AP 2 on a raise",
+        "image": "#"
+    },
+    {
+        "title": "Elven Short Sword",
+        "id": "Elven_short_sword",
+        "description": "A short sword of Elvish make.",
+        "price": "500",
+        "Damage": "STR+d6+1",
+        "wt": "2",
+        "strreq": "d6",
+        "notes": "Includes cavalary sabers",
+        "image": "#"
+    },
+    {
+        "title": "Elven Long Sword",
+        "id": "Elven_long_sword",
+        "description": "A long sword of Elvish make.",
+        "price": "1500",
+        "Damage": "STR+d8+1",
+        "wt": "2",
+        "strreq": "d8",
+        "notes": "Basic swords and Scimitars",
+        "image": "#"
+    },
+    {
+        "title": "Elven Great Sword",
+        "id": "Elven_great_sword",
+        "description": "A great sword of Elvish make.",
+        "price": "2000",
+        "Damage": "STR+d10+1",
+        "wt": "5",
+        "strreq": "d10",
+        "notes": "2H",
+        "image": "#"
+    },
+    {
+        "title": "Elven Warhammer",
+        "id": "Elven_warhammer",
+        "description": "A warhammer of Elvish make.",
+        "price": "1250",
+        "Damage": "STR+d6+1",
+        "wt": "2",
+        "strreq": "d6",
+        "notes": "Spiked, AP",
+        "image": "#"
+    }
+]
