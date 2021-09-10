@@ -8,7 +8,8 @@ const Footer = ({ children }) => {
   return (
     <footer className={styles.footer}>
       <Container className={styles.footerContainer}>
-        <Image src="/nickfox2.png" alt="Hinds Designs Logo" width={109} height={34} />
+        <p>A Medieval Merchants Digital Marketplace!</p>
+        <Image src="/nickfox3.png" alt="Hinds Designs Logo" width={200} height={64} />
       </Container>
     </footer>
   )

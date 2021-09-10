@@ -13,6 +13,36 @@
   display: flex;
   width: 100%;
   justify-content: space-between;
+  font-weight: bolder;
+  color: #FFFFFF;
+}
+
+.pages {
+  display: flex;
+  flex-direction: row;
+  font-size: 2rem;
+  font-weight: bolder;
+  align-items: baseline;
+}
+
+.shieldlink {
+  display: flex;
+  flex:1 1 auto;
+  margin-left: 20px;
+}
+
+.armorlink {
+  display: flex;
+  flex-direction: column;
+  flex:1 1 auto;
+  margin-left: 20px;
+}
+
+.weaponlink {
+  display: flex;
+  flex-direction: column;
+  flex:1 1 auto;
+  margin-left: 20px;
 }
 
 .title {
@@ -42,6 +72,7 @@
 
 .description a {
   display: flex;
+  flex-direction: column;
   align-items: center;
 }
 

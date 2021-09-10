@@ -8,7 +8,7 @@
         "cover": "-1",
         "wt": "5",
         "strreq": "d4",
-        "image": "#"
+        "image": "/shields/nordic_small.webp"
     },
     {
         "title": "Nordic Medium Shield",
@@ -19,7 +19,7 @@
         "cover": "-3",
         "wt": "10",
         "strreq": "d6",
-        "image": "#"
+        "image": "/shields/nordic_med.webp"
     },
     {
         "title": "Nordic Large Shield",
@@ -30,6 +30,6 @@
         "cover": "-5",
         "wt": "14",
         "strreq": "d8",
-        "image": "#"
+        "image": "/shields/Nordic_large.webp"
     }
 ]

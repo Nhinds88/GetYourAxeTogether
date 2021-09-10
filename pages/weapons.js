@@ -1,6 +1,4 @@
 import Head from 'next/head'
-import Image from 'next/image'
-import Link from 'next/link'
 import styles from '../styles/Home.module.css'
 
 import Layout from '@components/Layout';
@@ -31,7 +29,7 @@ export default function Home() {
               For when its time to do some stabbing yourself!
             </p>
             
-            <h2>Steel Weapons</h2>
+            <h2 className={styles.itemcat}>Steel Weapons</h2>
             <div className={styles.grid}>
               {wsteel.map(product => {
                 return (
@@ -44,12 +42,23 @@ export default function Home() {
                     <p>Weight: { product.wt }</p>
                     <p>Strength requirement: { product.strreq }</p>
                     <p>Notes: { product.notes }</p>
+                    <p>
+                      <button className="snipcart-add-item"
+                        data-item-id={product.id}
+                        data-item-image={product.image}
+                        data-item-name={product.title}
+                        data-item-url="/weapons"
+                        data-item-price={product.price}
+                      >
+                        Add to Cart
+                      </button>
+                    </p>
                   </div>
                 );
               })}
             </div>
     
-            <h2>Elven Weapons</h2>
+            <h2 className={styles.itemcat}>Elven Weapons</h2>
             <div className={styles.grid}>
               {welven.map(product => {
                 return (
@@ -62,12 +71,23 @@ export default function Home() {
                     <p>Weight: { product.wt }</p>
                     <p>Strength requirement: { product.strreq }</p>
                     <p>Notes: { product.notes }</p>
+                    <p>
+                      <button className="snipcart-add-item"
+                        data-item-id={product.id}
+                        data-item-image={product.image}
+                        data-item-name={product.title}
+                        data-item-url="/weapons"
+                        data-item-price={product.price}
+                      >
+                        Add to Cart
+                      </button>
+                    </p>
                   </div>
                 );
               })}
             </div>
             
-            <h2>Argonian Weapons</h2>
+            <h2 className={styles.itemcat}>Argonian Weapons</h2>
             <div className={styles.grid}>
               {wargonian.map(product => {
                 return (
@@ -80,12 +100,23 @@ export default function Home() {
                     <p>Weight: { product.wt }</p>
                     <p>Strength requirement: { product.strreq }</p>
                     <p>Notes: { product.notes }</p>
+                    <p>
+                      <button className="snipcart-add-item"
+                        data-item-id={product.id}
+                        data-item-image={product.image}
+                        data-item-name={product.title}
+                        data-item-url="/weapons"
+                        data-item-price={product.price}
+                      >
+                        Add to Cart
+                      </button>
+                    </p>
                   </div>
                 );
               })}
             </div>
             
-            <h2>Nordic Weapons</h2>
+            <h2 className={styles.itemcat}>Nordic Weapons</h2>
             <div className={styles.grid}>
               {wnordic.map(product => {
                 return (
@@ -98,12 +129,23 @@ export default function Home() {
                     <p>Weight: { product.wt }</p>
                     <p>Strength requirement: { product.strreq }</p>
                     <p>Notes: { product.notes }</p>
+                    <p>
+                      <button className="snipcart-add-item"
+                        data-item-id={product.id}
+                        data-item-image={product.image}
+                        data-item-name={product.title}
+                        data-item-url="/weapons"
+                        data-item-price={product.price}
+                      >
+                        Add to Cart
+                      </button>
+                    </p>
                   </div>
                 );
               })}
             </div>
             
-            <h2>Orcish Weapons</h2>
+            <h2 className={styles.itemcat}>Orcish Weapons</h2>
             <div className={styles.grid}>
               {worcish.map(product => {
                 return (
@@ -116,6 +158,17 @@ export default function Home() {
                     <p>Weight: { product.wt }</p>
                     <p>Strength requirement: { product.strreq }</p>
                     <p>Notes: { product.notes }</p>
+                    <p>
+                      <button className="snipcart-add-item"
+                        data-item-id={product.id}
+                        data-item-image={product.image}
+                        data-item-name={product.title}
+                        data-item-url="/weapons"
+                        data-item-price={product.price}
+                      >
+                        Add to Cart
+                      </button>
+                    </p>
                   </div>
                 );
               })}

@@ -8,7 +8,7 @@
         "cover": "-2",
         "wt": "6",
         "strreq": "d4",
-        "image": "#"
+        "image": "/shields/orcish_small.webp"
     },
     {
         "title": "Orcish Medium Shield",
@@ -19,7 +19,7 @@
         "cover": "-4",
         "wt": "11",
         "strreq": "d6",
-        "image": "#"
+        "image": "/shields/orcish_med.webp"
     },
     {
         "title": "Orcish Large Shield",
@@ -30,6 +30,6 @@
         "cover": "-6",
         "wt": "16",
         "strreq": "d8",
-        "image": "#"
+        "image": "/shields/Orcish_large.webp"
     }
 ]

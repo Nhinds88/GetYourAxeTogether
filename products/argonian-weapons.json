@@ -8,7 +8,7 @@
         "wt": "2",
         "strreq": "d6",
         "notes": "",
-        "image": "#"
+        "image": "/weapons/argonian/ArgonianHandAxe.webp"
     },
     {
         "title": "Argonian Battle Axe",
@@ -19,7 +19,7 @@
         "wt": "4",
         "strreq": "d8",
         "notes": "",
-        "image": "#"
+        "image": "/weapons/argonian/ArgonianBattleAxe.webp"
     },
     {
         "title": "Argonian Great Axe",
@@ -30,7 +30,7 @@
         "wt": "7",
         "strreq": "d10",
         "notes": "AP2, Parry-1, 2H",
-        "image": "#"
+        "image": "/weapons/argonian/ArgonianGreatAxe.webp"
     },
     {
         "title": "Argonian Throwing Axe",
@@ -41,7 +41,7 @@
         "wt": "3",
         "strreq": "d6",
         "notes": "3/6/12",
-        "image": "#"
+        "image": "/weapons/argonian/ArgonianThrowingAxe.webp"
     },
     {
         "title": "Argonian Dagger/Knife",
@@ -52,7 +52,7 @@
         "wt": "1",
         "strreq": "d4",
         "notes": "",
-        "image": "#"
+        "image": "/weapons/argonian/argoniandagger.webp"
     },
     {
         "title": "Argonian Throwing Knife",
@@ -63,7 +63,7 @@
         "wt": "1",
         "strreq": "d4",
         "notes": "3/6/12",
-        "image": "#"
+        "image": "/weapons/argonian/ArgonianthrowingKnife.webp"
     },
     {
         "title": "Argonian Flail",
@@ -74,7 +74,7 @@
         "wt": "3",
         "strreq": "d6",
         "notes": "Ignores Shield Bonus",
-        "image": "#"
+        "image": "/weapons/argonian/argonianFlail.png"
     },
     {
         "title": "Argonian Halberd",
@@ -85,7 +85,7 @@
         "wt": "6",
         "strreq": "d8",
         "notes": "Reach 1, 2H",
-        "image": "#"
+        "image": "/weapons/argonian/ArgonianHalberd.webp"
     },
     {
         "title": "Argonian Katana",
@@ -96,7 +96,7 @@
         "wt": "3",
         "strreq": "d6",
         "notes": "2H",
-        "image": "#"
+        "image": "/weapons/argonian/ArgonianKatana.webp"
     },
     {
         "title": "Argonian Lance",
@@ -107,7 +107,7 @@
         "wt": "6",
         "strreq": "d8",
         "notes": "AP2 while charging, Reach 2 when mounted",
-        "image": "#"
+        "image": "/weapons/lance.png"
     },
     {
         "title": "Argonian Mace",
@@ -118,7 +118,7 @@
         "wt": "4",
         "strreq": "d6",
         "notes": "",
-        "image": "#"
+        "image": "/weapons/argonian/ArgonianMace.webp"
     },
     {
         "title": "Argonian Maul",
@@ -129,7 +129,7 @@
         "wt": "10",
         "strreq": "d10",
         "notes": "2H, +2 to break object",
-        "image": "#"
+        "image": "/weapons/argonian/ArgonianMaul.webp"
     },
     {
         "title": "Argonian Pike",
@@ -140,7 +140,7 @@
         "wt": "18",
         "strreq": "d8",
         "notes": "Reach 2, 2H",
-        "image": "#"
+        "image": "/weapons/argonian/ArgonianPike.png"
     },
     {
         "title": "Argonian Rapier",
@@ -151,7 +151,7 @@
         "wt": "2",
         "strreq": "d4",
         "notes": "Parry +1",
-        "image": "#"
+        "image": "/weapons/argonian/ArgonianRapier.png"
     },
     {
         "title": "Argonian Spear",
@@ -162,7 +162,7 @@
         "wt": "3",
         "strreq": "d6",
         "notes": "Reach 1, Parry +1, if used as 2H",
-        "image": "#"
+        "image": "/weapons/argonian/ArgonianSpear.png"
     },
     {
         "title": "Argonian Throwing Spear/Javelin",
@@ -173,7 +173,7 @@
         "wt": "3",
         "strreq": "d6",
         "notes": "3/6/12",
-        "image": "#"
+        "image": "/weapons/argonian/ArgonianJavelin.png"
     },
     {
         "title": "Argonian Short Sword",
@@ -184,7 +184,7 @@
         "wt": "2",
         "strreq": "d6",
         "notes": "Includes cavalary sabers",
-        "image": "#"
+        "image": "/weapons/argonian/ArgonianShortSword.webp"
     },
     {
         "title": "Argonian Long Sword",
@@ -195,7 +195,7 @@
         "wt": "3",
         "strreq": "d8",
         "notes": "Basic swords and Scimitars",
-        "image": "#"
+        "image": "/weapons/argonian/ArgonianLongSword.webp"
     },
     {
         "title": "Argonian Great Sword",
@@ -206,7 +206,7 @@
         "wt": "6",
         "strreq": "d10",
         "notes": "2H",
-        "image": "#"
+        "image": "/weapons/argonian/ArgonianGreatSword.webp"
     },
     {
         "title": "Argonian Warhammer",
@@ -217,6 +217,6 @@
         "wt": "2",
         "strreq": "d6",
         "notes": "Spiked, AP",
-        "image": "#"
+        "image": "/weapons/argonian/ArgonianWarhammer.webp"
     }
 ]

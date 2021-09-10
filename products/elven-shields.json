@@ -8,7 +8,7 @@
         "cover": "0",
         "wt": "3",
         "strreq": "d4",
-        "image": "#"
+        "image": "/shields/elven_small.webp"
     },
     {
         "title": "Elven Medium Shield",
@@ -19,7 +19,7 @@
         "cover": "-2",
         "wt": "6",
         "strreq": "d6",
-        "image": "#"
+        "image": "/shields/elven_med.webp"
     },
     {
         "title": "Elven Large Shield",
@@ -30,6 +30,6 @@
         "cover": "-4",
         "wt": "10",
         "strreq": "d8",
-        "image": "#"
+        "image": "/shields/elven_large.webp"
     }
 ]

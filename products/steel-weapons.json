@@ -8,7 +8,7 @@
         "wt": "2",
         "strreq": "d6",
         "notes": "",
-        "image": "#"
+        "image": "/weapons/steel/SteelHandAxe.webp"
     },
     {
         "title": "Steel Battle Axe",
@@ -19,7 +19,7 @@
         "wt": "4",
         "strreq": "d8",
         "notes": "",
-        "image": "#"
+        "image": "/weapons/steel/SteelBattleAxe.webp"
     },
     {
         "title": "Steel Great Axe",
@@ -30,7 +30,7 @@
         "wt": "7",
         "strreq": "d10",
         "notes": "AP2, Parry-1, 2H",
-        "image": "#"
+        "image": "/weapons/steel/SteelGreatAxe.webp"
     },
     {
         "title": "Steel Throwing Axe",
@@ -41,7 +41,7 @@
         "wt": "3",
         "strreq": "d6",
         "notes": "3/6/12",
-        "image": "#"
+        "image": "/weapons/steel/steelThrowingAxe.webp"
     },
     {
         "title": "Steel Dagger/Knife",
@@ -52,7 +52,7 @@
         "wt": "1",
         "strreq": "d4",
         "notes": "",
-        "image": "#"
+        "image": "/weapons/steel/steelDagger.webp"
     },
     {
         "title": "Steel Throwing Knife",
@@ -63,7 +63,7 @@
         "wt": "1",
         "strreq": "d4",
         "notes": "3/6/12",
-        "image": "#"
+        "image": "/weapons/steel/steelThrowingKnife.webp"
     },
     {
         "title": "Steel Flail",
@@ -74,7 +74,7 @@
         "wt": "3",
         "strreq": "d6",
         "notes": "Ignores Shield Bonus",
-        "image": "#"
+        "image": "/weapons/steel/steelFlail.png"
     },
     {
         "title": "Steel Halberd",
@@ -85,7 +85,7 @@
         "wt": "6",
         "strreq": "d8",
         "notes": "Reach 1, 2H",
-        "image": "#"
+        "image": "/weapons/steel/steelHalberd.png"
     },
     {
         "title": "Steel Katana",
@@ -96,7 +96,7 @@
         "wt": "3",
         "strreq": "d6",
         "notes": "2H",
-        "image": "#"
+        "image": "/weapons/steel/steelkatana.webp"
     },
     {
         "title": "Steel Lance",
@@ -107,7 +107,7 @@
         "wt": "6",
         "strreq": "d8",
         "notes": "AP2 while charging, Reach 2 when mounted",
-        "image": "#"
+        "image": "/weapons/lance.png"
     },
     {
         "title": "Steel Mace",
@@ -118,7 +118,7 @@
         "wt": "4",
         "strreq": "d6",
         "notes": "",
-        "image": "#"
+        "image": "/weapons/steel/SteelMace.webp"
     },
     {
         "title": "Steel Maul",
@@ -129,7 +129,7 @@
         "wt": "10",
         "strreq": "d10",
         "notes": "2H, +2 to break object",
-        "image": "#"
+        "image": "/weapons/steel/steelMaul.webp"
     },
     {
         "title": "Steel Pike",
@@ -140,7 +140,7 @@
         "wt": "18",
         "strreq": "d8",
         "notes": "Reach 2, 2H",
-        "image": "#"
+        "image": "/weapons/steel/SteelPike.png"
     },
     {
         "title": "Steel Rapier",
@@ -151,7 +151,7 @@
         "wt": "2",
         "strreq": "d4",
         "notes": "Parry +1",
-        "image": "#"
+        "image": "/weapons/steel/SteelRapier.png"
     },
     {
         "title": "Steel Spear",
@@ -162,7 +162,7 @@
         "wt": "3",
         "strreq": "d6",
         "notes": "Reach 1, Parry +1, if used as 2H",
-        "image": "#"
+        "image": "/weapons/steel/SteelSpear.png"
     },
     {
         "title": "Steel Throwing Spear/Javelin",
@@ -173,7 +173,7 @@
         "wt": "3",
         "strreq": "d6",
         "notes": "3/6/12, AP 2 on a raise",
-        "image": "#"
+        "image": "/weapons/steel/steelJavelin.webp"
     },
     {
         "title": "Steel Short Sword",
@@ -184,7 +184,7 @@
         "wt": "2",
         "strreq": "d6",
         "notes": "Includes cavalary sabers",
-        "image": "#"
+        "image": "/weapons/steel/steelShortSword.webp"
     },
     {
         "title": "Steel Long Sword",
@@ -195,7 +195,7 @@
         "wt": "3",
         "strreq": "d8",
         "notes": "Basic swords and Scimitars",
-        "image": "#"
+        "image": "/weapons/steel/SteelLongSword.webp"
     },
     {
         "title": "Steel Great Sword",
@@ -206,7 +206,7 @@
         "wt": "6",
         "strreq": "d10",
         "notes": "2H",
-        "image": "#"
+        "image": "/weapons/steel/SteelGreatsword.webp"
     },
     {
         "title": "Steel Warhammer",
@@ -217,6 +217,6 @@
         "wt": "2",
         "strreq": "d6",
         "notes": "Spiked, AP",
-        "image": "#"
+        "image": "/weapons/steel/SteelWarhammer.webp"
     }
 ]

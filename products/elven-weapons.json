@@ -8,7 +8,7 @@
         "wt": "2",
         "strreq": "d6",
         "notes": "",
-        "image": "#"
+        "image": "/weapons/elven/ElvenHandAxe.webp"
     },
     {
         "title": "Elven Battle Axe",
@@ -19,7 +19,7 @@
         "wt": "3",
         "strreq": "d8",
         "notes": "",
-        "image": "#"
+        "image": "/weapons/elven/ElvenBattleAxe.webp"
     },
     {
         "title": "Elven Great Axe",
@@ -30,7 +30,7 @@
         "wt": "6",
         "strreq": "d10",
         "notes": "AP2, Parry-1, 2H",
-        "image": "#"
+        "image": "/weapons/elven/ElvenGreataxe.webp"
     },
     {
         "title": "Elven Throwing Axe",
@@ -41,7 +41,7 @@
         "wt": "2",
         "strreq": "d6",
         "notes": "3/6/12",
-        "image": "#"
+        "image": "/weapons/elven/ElvenHandAxe.webp"
     },
     {
         "title": "Elven Dagger/Knife",
@@ -52,7 +52,7 @@
         "wt": "1",
         "strreq": "d4",
         "notes": "",
-        "image": "#"
+        "image": "/weapons/elven/ElvenDagger.webp"
     },
     {
         "title": "Elven Throwing Knife",
@@ -63,7 +63,7 @@
         "wt": "1",
         "strreq": "d4",
         "notes": "3/6/12",
-        "image": "#"
+        "image": "/weapons/elven/ElvenThrowingDagger.webp"
     },
     {
         "title": "Elven Flail",
@@ -74,7 +74,7 @@
         "wt": "2",
         "strreq": "d6",
         "notes": "Ignores Shield Bonus",
-        "image": "#"
+        "image": "/weapons/elven/elvenFlail.png"
     },
     {
         "title": "Elven Halberd",
@@ -85,7 +85,7 @@
         "wt": "5",
         "strreq": "d8",
         "notes": "Reach 1, 2H",
-        "image": "#"
+        "image": "/weapons/elven/elvenHalberd.png"
     },
     {
         "title": "Elven Katana",
@@ -96,7 +96,7 @@
         "wt": "2",
         "strreq": "d6",
         "notes": "2H",
-        "image": "#"
+        "image": "/weapons/elven/ElvenKatana.webp"
     },
     {
         "title": "Elven Lance",
@@ -107,7 +107,7 @@
         "wt": "5",
         "strreq": "d8",
         "notes": "AP2 while charging, Reach 2 when mounted",
-        "image": "#"
+        "image": "/weapons/lance.png"
     },
     {
         "title": "Elven Mace",
@@ -118,7 +118,7 @@
         "wt": "3",
         "strreq": "d6",
         "notes": "",
-        "image": "#"
+        "image": "/weapons/elven/ElvenMace.webp"
     },
     {
         "title": "Elven Maul",
@@ -129,7 +129,7 @@
         "wt": "8",
         "strreq": "d10",
         "notes": "2H, +2 to break object",
-        "image": "#"
+        "image": "/weapons/elven/ElvenMaul.webp"
     },
     {
         "title": "Elven Pike",
@@ -140,7 +140,7 @@
         "wt": "14",
         "strreq": "d8",
         "notes": "Reach 2, 2H",
-        "image": "#"
+        "image": "/weapons/elven/ElvenPike.webp"
     },
     {
         "title": "Elven Rapier",
@@ -151,7 +151,7 @@
         "wt": "2",
         "strreq": "d4",
         "notes": "Parry +1",
-        "image": "#"
+        "image": "/weapons/elven/ElvenRapier.png"
     },
     {
         "title": "Elven Spear",
@@ -162,7 +162,7 @@
         "wt": "2",
         "strreq": "d6",
         "notes": "Reach 1, Parry +1, if used as 2H",
-        "image": "#"
+        "image": "/weapons/elven/ElvenSpear.webp"
     },
     {
         "title": "Elven Throwing Spear/Javelin",
@@ -173,7 +173,7 @@
         "wt": "2",
         "strreq": "d6",
         "notes": "3/6/12, AP 2 on a raise",
-        "image": "#"
+        "image": "/weapons/elven/elvenJavelin.png"
     },
     {
         "title": "Elven Short Sword",
@@ -184,7 +184,7 @@
         "wt": "2",
         "strreq": "d6",
         "notes": "Includes cavalary sabers",
-        "image": "#"
+        "image": "/weapons/elven/ElvenShortSword.webp"
     },
     {
         "title": "Elven Long Sword",
@@ -195,7 +195,7 @@
         "wt": "2",
         "strreq": "d8",
         "notes": "Basic swords and Scimitars",
-        "image": "#"
+        "image": "/weapons/elven/ElvenLongSword.webp"
     },
     {
         "title": "Elven Great Sword",
@@ -206,7 +206,7 @@
         "wt": "5",
         "strreq": "d10",
         "notes": "2H",
-        "image": "#"
+        "image": "/weapons/elven/ElvenGreatsword.webp"
     },
     {
         "title": "Elven Warhammer",
@@ -217,6 +217,6 @@
         "wt": "2",
         "strreq": "d6",
         "notes": "Spiked, AP",
-        "image": "#"
+        "image": "/weapons/elven/ElvenWarhammer.webp"
     }
 ]

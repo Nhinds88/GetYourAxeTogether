@@ -29,7 +29,7 @@ export default function Home() {
               Getting stabbed is only better when you a have a bit of steel on ya!
             </p>
             
-            <h2>Medium Armor</h2>
+            <h2 className={styles.itemcat}>Medium Armor</h2>
             <div className={styles.grid}>
               {medArmor.map(product => {
                 return (
@@ -41,12 +41,23 @@ export default function Home() {
                     <p>Armor: { product.armor }</p>
                     <p>Weight: { product.wt }</p>
                     <p>Strength requirement: { product.strreq }</p>
+                    <p>
+                      <button className="snipcart-add-item"
+                        data-item-id={product.id}
+                        data-item-image={product.image}
+                        data-item-name={product.title}
+                        data-item-url="/armor"
+                        data-item-price={product.price}
+                      >
+                        Add to Cart
+                      </button>
+                    </p>
                   </div>
                 );
               })}
             </div>
     
-            <h2>Heavy Armor</h2>
+            <h2 className={styles.itemcat}>Heavy Armor</h2>
             <div className={styles.grid}>
               {heavyArmor.map(product => {
                 return (
@@ -58,6 +69,17 @@ export default function Home() {
                     <p>Armor: { product.armor }</p>
                     <p>Weight: { product.wt }</p>
                     <p>Strength requirement: { product.strreq }</p>
+                    <p>
+                      <button className="snipcart-add-item"
+                        data-item-id={product.id}
+                        data-item-image={product.image}
+                        data-item-name={product.title}
+                        data-item-url="/armor"
+                        data-item-price={product.price}
+                      >
+                        Add to Cart
+                      </button>
+                    </p>
                   </div>
                 );
               })}

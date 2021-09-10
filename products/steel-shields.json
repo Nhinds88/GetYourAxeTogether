@@ -8,7 +8,7 @@
         "cover": "0",
         "wt": "4",
         "strreq": "d4",
-        "image": "#"
+        "image": "/shields/Steel_small.webp"
     },
     {
         "title": "Steel Medium Shield",
@@ -19,7 +19,7 @@
         "cover": "-2",
         "wt": "8",
         "strreq": "d6",
-        "image": "#"
+        "image": "/shields/Steel_med.webp"
     },
     {
         "title": "Steel Large Shield",
@@ -30,6 +30,6 @@
         "cover": "-4",
         "wt": "12",
         "strreq": "d8",
-        "image": "#"
+        "image": "/shields/Steel_large.webp"
     }
 ]

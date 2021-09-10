@@ -8,7 +8,7 @@
         "wt": "4",
         "strreq": "d6",
         "notes": "",
-        "image": "#"
+        "image": "/weapons/nordic/NordicHandAxe.webp"
     },
     {
         "title": "Nordic Battle Axe",
@@ -19,7 +19,7 @@
         "wt": "7",
         "strreq": "d8",
         "notes": "",
-        "image": "#"
+        "image": "/weapons/nordic/NordicBattleAxe.webp"
     },
     {
         "title": "Nordic Great Axe",
@@ -30,7 +30,7 @@
         "wt": "13",
         "strreq": "d10",
         "notes": "AP2, Parry-1, 2H",
-        "image": "#"
+        "image": "/weapons/nordic/NordicGreatAxe.webp"
     },
     {
         "title": "Nordic Throwing Axe",
@@ -41,7 +41,7 @@
         "wt": "5",
         "strreq": "d6",
         "notes": "3/6/12",
-        "image": "#"
+        "image": "/weapons/nordic/NordicThrowingAxe.webp"
     },
     {
         "title": "Nordic Dagger/Knife",
@@ -52,7 +52,7 @@
         "wt": "2",
         "strreq": "d4",
         "notes": "",
-        "image": "#"
+        "image": "/weapons/nordic/NordicDagger.webp"
     },
     {
         "title": "Nordic Throwing Knife",
@@ -63,7 +63,7 @@
         "wt": "2",
         "strreq": "d4",
         "notes": "3/6/12",
-        "image": "#"
+        "image": "/weapons/nordic/NordicThrowingKnife.webp"
     },
     {
         "title": "Nordic Flail",
@@ -74,7 +74,7 @@
         "wt": "5",
         "strreq": "d6",
         "notes": "Ignores Shield Bonus",
-        "image": "#"
+        "image": "/weapons/nordic/NordicFlail.png"
     },
     {
         "title": "Nordic Halberd",
@@ -85,7 +85,7 @@
         "wt": "10",
         "strreq": "d8",
         "notes": "Reach 1, 2H",
-        "image": "#"
+        "image": "/weapons/nordic/nordicHalberd.webp"
     },
     {
         "title": "Nordic Katana",
@@ -96,7 +96,7 @@
         "wt": "5",
         "strreq": "d6",
         "notes": "2H",
-        "image": "#"
+        "image": "/weapons/nordic/NordicKatana.webp"
     },
     {
         "title": "Nordic Lance",
@@ -107,7 +107,7 @@
         "wt": "11",
         "strreq": "d8",
         "notes": "AP2 while charging, Reach 2 when mounted",
-        "image": "#"
+        "image": "/weapons/lance.png"
     },
     {
         "title": "Nordic Mace",
@@ -118,7 +118,7 @@
         "wt": "7",
         "strreq": "d6",
         "notes": "",
-        "image": "#"
+        "image": "/weapons/nordic/NordicMace.webp"
     },
     {
         "title": "Nordic Maul",
@@ -129,7 +129,7 @@
         "wt": "18",
         "strreq": "d10",
         "notes": "2H, +2 to break object",
-        "image": "#"
+        "image": "/weapons/nordic/NordicMaul.webp"
     },
     {
         "title": "Nordic Pike",
@@ -140,7 +140,7 @@
         "wt": "32",
         "strreq": "d8",
         "notes": "Reach 2, 2H",
-        "image": "#"
+        "image": "/weapons/nordic/NordicPike.png"
     },
     {
         "title": "Nordic Rapier",
@@ -151,7 +151,7 @@
         "wt": "4",
         "strreq": "d4",
         "notes": "Parry +1",
-        "image": "#"
+        "image": "/weapons/nordic/nordicRapier.webp"
     },
     {
         "title": "Nordic Spear",
@@ -162,7 +162,7 @@
         "wt": "5",
         "strreq": "d6",
         "notes": "Reach 1, Parry +1, if used as 2H",
-        "image": "#"
+        "image": "/weapons/nordic/NordicSpear.png"
     },
     {
         "title": "Nordic Throwing Spear/Javelin",
@@ -173,7 +173,7 @@
         "wt": "5",
         "strreq": "d6",
         "notes": "3/6/12, AP 2 on a raise",
-        "image": "#"
+        "image": "/weapons/nordic/nordicJavelin.webp"
     },
     {
         "title": "Nordic Short Sword",
@@ -184,7 +184,7 @@
         "wt": "4",
         "strreq": "d6",
         "notes": "Includes cavalary sabers",
-        "image": "#"
+        "image": "/weapons/nordic/NordicShortSword.webp"
     },
     {
         "title": "Nordic Long Sword",
@@ -195,7 +195,7 @@
         "wt": "5",
         "strreq": "d8",
         "notes": "Basic swords and Scimitars",
-        "image": "#"
+        "image": "/weapons/nordic/NordicLongSword.webp"
     },
     {
         "title": "Nordic Great Sword",
@@ -206,7 +206,7 @@
         "wt": "11",
         "strreq": "d10",
         "notes": "2H",
-        "image": "#"
+        "image": "/weapons/nordic/NordicGreatsword.webp"
     },
     {
         "title": "Nordic Warhammer",
@@ -217,6 +217,6 @@
         "wt": "4",
         "strreq": "d6",
         "notes": "Spiked, AP",
-        "image": "#"
+        "image": "/weapons/nordic/NordicWarhammer.webp"
     }
 ]

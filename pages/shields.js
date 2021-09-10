@@ -30,7 +30,7 @@ export default function Home() {
               Guard yourself from the pokey bits out there!
             </p>
             
-            <h2>Steel Shields</h2>
+            <h2 className={styles.itemcat}>Steel Shields</h2>
             <div className={styles.grid}>
               {shieldsteel.map(product => {
                 return (
@@ -43,12 +43,23 @@ export default function Home() {
                     <p>Cover: { product.cover }</p>
                     <p>Weight: { product.wt }</p>
                     <p>Strength requirement: { product.strreq }</p>
+                    <p>
+                      <button className="snipcart-add-item"
+                        data-item-id={product.id}
+                        data-item-image={product.image}
+                        data-item-name={product.title}
+                        data-item-url="/shields"
+                        data-item-price={product.price}
+                      >
+                        Add to Cart
+                      </button>
+                    </p>
                   </div>
                 );
               })}
             </div>
     
-            <h2>Elven Shields</h2>
+            <h2 className={styles.itemcat}>Elven Shields</h2>
             <div className={styles.grid}>
               {shieldelven.map(product => {
                 return (
@@ -61,12 +72,23 @@ export default function Home() {
                     <p>Cover: { product.cover }</p>
                     <p>Weight: { product.wt }</p>
                     <p>Strength requirement: { product.strreq }</p>
+                    <p>
+                      <button className="snipcart-add-item"
+                        data-item-id={product.id}
+                        data-item-image={product.image}
+                        data-item-name={product.title}
+                        data-item-url="/shields"
+                        data-item-price={product.price}
+                      >
+                        Add to Cart
+                      </button>
+                    </p>
                   </div>
                 );
               })}
             </div>
             
-            <h2>Nordic Shields</h2>
+            <h2 className={styles.itemcat}>Nordic Shields</h2>
             <div className={styles.grid}>
               {shieldnordic.map(product => {
                 return (
@@ -79,12 +101,23 @@ export default function Home() {
                     <p>Cover: { product.cover }</p>
                     <p>Weight: { product.wt }</p>
                     <p>Strength requirement: { product.strreq }</p>
+                    <p>
+                      <button className="snipcart-add-item"
+                        data-item-id={product.id}
+                        data-item-image={product.image}
+                        data-item-name={product.title}
+                        data-item-url="/shields"
+                        data-item-price={product.price}
+                      >
+                        Add to Cart
+                      </button>
+                    </p>
                   </div>
                 );
               })}
             </div>
             
-            <h2>Orcish Shields</h2>
+            <h2 className={styles.itemcat}>Orcish Shields</h2>
             <div className={styles.grid}>
               {shieldorcish.map(product => {
                 return (
@@ -97,6 +130,17 @@ export default function Home() {
                     <p>Cover: { product.cover }</p>
                     <p>Weight: { product.wt }</p>
                     <p>Strength requirement: { product.strreq }</p>
+                    <p>
+                      <button className="snipcart-add-item"
+                        data-item-id={product.id}
+                        data-item-image={product.image}
+                        data-item-name={product.title}
+                        data-item-url="/shields"
+                        data-item-price={product.price}
+                      >
+                        Add to Cart
+                      </button>
+                    </p>
                   </div>
                 );
               })}
