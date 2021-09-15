@@ -1,7 +1,43 @@
 @import url('https://fonts.googleapis.com/css2?family=UnifrakturCook:wght@700&display=swap');
 
+.snipcart {
+    font-family: UnifrakturCook;
+    color:#fff;
+}
+   
 .snipcart * {
-    font-family: 'UnifrakturCook';
     background-color: #1a1013;
     color: #fff;
+}
+
+.snipcart__font--secondary,
+.snipcart__font--subtitle {
+ font-family: UnifrakturCook;
+}
+
+.snipcart__box {
+    background-color:#1a1013;
+}
+
+.snipcart__box--badge-highlight {
+    background:linear-gradient(90deg,#30272A ,#473F42 );
+    color:#fff
+}
+
+.snipcart-modal__close {
+    font-family: UnifrakturCook;
+    color:#FFF;
+}
+
+.snipcart__actions--link {
+    color:#FFF;
+    font-family: UnifrakturCook;
+}
+
+.snipcart-cart-button--highlight {
+    background-image: linear-gradient(90deg,#30272A ,#473F42);
+}
+
+.snipcart-payment-card-form {
+    background-color: #E9DCC9;
 }

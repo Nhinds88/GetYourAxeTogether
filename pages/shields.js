@@ -44,7 +44,7 @@ export default function Home() {
                     <p>Weight: { product.wt }</p>
                     <p>Strength requirement: { product.strreq }</p>
                     <p>
-                      <button className="snipcart-add-item"
+                      <button className="snipcart-add-item" id={ styles.btn }
                         data-item-id={product.id}
                         data-item-image={product.image}
                         data-item-name={product.title}
@@ -73,7 +73,7 @@ export default function Home() {
                     <p>Weight: { product.wt }</p>
                     <p>Strength requirement: { product.strreq }</p>
                     <p>
-                      <button className="snipcart-add-item"
+                      <button className="snipcart-add-item" id={ styles.btn }
                         data-item-id={product.id}
                         data-item-image={product.image}
                         data-item-name={product.title}
@@ -102,7 +102,7 @@ export default function Home() {
                     <p>Weight: { product.wt }</p>
                     <p>Strength requirement: { product.strreq }</p>
                     <p>
-                      <button className="snipcart-add-item"
+                      <button className="snipcart-add-item" id={ styles.btn }
                         data-item-id={product.id}
                         data-item-image={product.image}
                         data-item-name={product.title}
@@ -131,7 +131,7 @@ export default function Home() {
                     <p>Weight: { product.wt }</p>
                     <p>Strength requirement: { product.strreq }</p>
                     <p>
-                      <button className="snipcart-add-item"
+                      <button className="snipcart-add-item" id={ styles.btn }
                         data-item-id={product.id}
                         data-item-image={product.image}
                         data-item-name={product.title}

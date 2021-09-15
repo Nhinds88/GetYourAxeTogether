@@ -7,7 +7,7 @@
         "armor": "+4",
         "wt": "30",
         "strreq": "d10",
-        "image": "#"
+        "image": "/chest/heavy/Steel.webp"
     },
     {
         "title": "Steel Vambraces(Arms)",
@@ -17,7 +17,7 @@
         "armor": "+4",
         "wt": "10",
         "strreq": "d10",
-        "image": "#"
+        "image": "/braces/heavy/SteelBracers.webp"
     },
     {
         "title": "Steel Greaves(Legs)",
@@ -27,7 +27,7 @@
         "armor": "+4",
         "wt": "10",
         "strreq": "d10",
-        "image": "#"
+        "image": "/greaves/heavy/Steel.webp"
     },
     {
         "title": "Steel (Pot)(Head)",
@@ -37,7 +37,7 @@
         "Parry": "+4",
         "wt": "4",
         "strreq": "d10",
-        "image": "#"
+        "image": "/helmets/heavy/steel_pot.webp"
     },
     {
         "title": "Steel (Enclosed)(Head)",
@@ -47,7 +47,7 @@
         "Parry": "+4",
         "wt": "8",
         "strreq": "d10",
-        "image": "#"
+        "image": "/helmets/heavy/steel_enclosed.webp"
     },
     
     {
@@ -58,7 +58,7 @@
         "armor": "+4",
         "wt": "24",
         "strreq": "d10",
-        "image": "#"
+        "image": "/chest/heavy/Elven.webp"
     },
     {
         "title": "Elven Vambraces(Arms)",
@@ -68,7 +68,7 @@
         "armor": "+4",
         "wt": "8",
         "strreq": "d10",
-        "image": "#"
+        "image": "/braces/heavy/ElvenBracers.webp"
     },
     {
         "title": "Elven Greaves(Legs)",
@@ -78,7 +78,7 @@
         "armor": "+4",
         "wt": "8",
         "strreq": "d10",
-        "image": "#"
+        "image": "/greaves/heavy/Elven.webp"
     },
     {
         "title": "Elven (Pot)(Head)",
@@ -88,7 +88,7 @@
         "Parry": "+4",
         "wt": "3",
         "strreq": "d10",
-        "image": "#"
+        "image": "/helmets/heavy/Elven_pot.webp"
     },
     {
         "title": "Elven (Enclosed)(Head)",
@@ -98,7 +98,7 @@
         "Parry": "+4",
         "wt": "6",
         "strreq": "d10",
-        "image": "#"
+        "image": "/helmets/heavy/elven_enclosed.webp"
     },
     
     {
@@ -109,7 +109,7 @@
         "armor": "+5",
         "wt": "36",
         "strreq": "d10",
-        "image": "#"
+        "image": "/chest/heavy/Dwarven.webp"
     },
     {
         "title": "Dwarven Vambraces(Arms)",
@@ -119,7 +119,7 @@
         "armor": "+5",
         "wt": "12",
         "strreq": "d10",
-        "image": "#"
+        "image": "/braces/heavy/DwarvenBracers.webp"
     },
     {
         "title": "Dwarven Greaves(Legs)",
@@ -129,7 +129,7 @@
         "armor": "+5",
         "wt": "12",
         "strreq": "d10",
-        "image": "#"
+        "image": "/greaves/heavy/Dwarven.webp"
     },
     {
         "title": "Dwarven (Pot)(Head)",
@@ -139,7 +139,7 @@
         "Parry": "+5",
         "wt": "5",
         "strreq": "d10",
-        "image": "#"
+        "image": "/helmets/heavy/Dwarven_pot.webp"
     },
     {
         "title": "Dwarven (Enclosed)(Head)",
@@ -149,7 +149,7 @@
         "Parry": "+5",
         "wt": "10",
         "strreq": "d10",
-        "image": "#"
+        "image": "/helmets/heavy/Dwarven_enclosed.webp"
     },
     
     {
@@ -160,7 +160,7 @@
         "armor": "+5",
         "wt": "30",
         "strreq": "d10",
-        "image": "#"
+        "image": "/chest/heavy/Nordic.webp"
     },
     {
         "title": "Nordic Vambraces(Arms)",
@@ -170,7 +170,7 @@
         "armor": "+5",
         "wt": "10",
         "strreq": "d10",
-        "image": "#"
+        "image": "/braces/heavy/NordicBracers.webp"
     },
     {
         "title": "Nordic Greaves(Legs)",
@@ -180,7 +180,7 @@
         "armor": "+5",
         "wt": "10",
         "strreq": "d10",
-        "image": "#"
+        "image": "/greaves/heavy/Nordic.webp"
     },
     {
         "title": "Nordic (Pot)(Head)",
@@ -190,7 +190,7 @@
         "Parry": "+5",
         "wt": "4",
         "strreq": "d10",
-        "image": "#"
+        "image": "/helmets/heavy/nordic_pot.webp"
     },
     {
         "title": "Nordic (Enclosed)(Head)",
@@ -200,7 +200,7 @@
         "Parry": "+5",
         "wt": "8",
         "strreq": "d10",
-        "image": "#"
+        "image": "/helmets/heavy/nordic_enclosed.webp"
     },
     
     {
@@ -211,7 +211,7 @@
         "armor": "+6",
         "wt": "42",
         "strreq": "d10",
-        "image": "#"
+        "image": "/chest/heavy/Orcish.webp"
     },
     {
         "title": "Orcish Vambraces(Arms)",
@@ -221,7 +221,7 @@
         "armor": "+6",
         "wt": "14",
         "strreq": "d10",
-        "image": "#"
+        "image": "/braces/heavy/OrcishBracers.webp"
     },
     {
         "title": "Orcish Greaves(Legs)",
@@ -231,7 +231,7 @@
         "armor": "+6",
         "wt": "14",
         "strreq": "d10",
-        "image": "#"
+        "image": "/greaves/heavy/Orcish.webp"
     },
     {
         "title": "Orcish (Pot)(Head)",
@@ -241,7 +241,7 @@
         "Parry": "+6",
         "wt": "6",
         "strreq": "d10",
-        "image": "#"
+        "image": "/helmets/heavy/Orcish_pot.webp"
     },
     {
         "title": "Orcish (Enclosed)(Head)",
@@ -251,6 +251,6 @@
         "Parry": "+6",
         "wt": "11",
         "strreq": "d10",
-        "image": "#"
+        "image": "/helmets/heavy/orcish_enclosed.webp"
     }
 ]

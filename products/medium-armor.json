@@ -7,7 +7,7 @@
         "armor": "+3",
         "wt": "13",
         "strreq": "d8",
-        "image": "#"
+        "image": "/chest/med/steel.webp"
     },
     {
         "title": "Steel Vambraces(Arms)",
@@ -17,7 +17,7 @@
         "armor": "+3",
         "wt": "5",
         "strreq": "d8",
-        "image": "#"
+        "image": "/braces/med/SteelBracers.webp"
     },
     {
         "title": "Steel Greaves(Legs)",
@@ -27,7 +27,7 @@
         "armor": "+3",
         "wt": "6",
         "strreq": "d8",
-        "image": "#"
+        "image": "/greaves/med/steel.webp"
     },
     {
         "title": "Steel Helmet(Head)",
@@ -37,7 +37,7 @@
         "Parry": "+3",
         "wt": "6",
         "strreq": "d8",
-        "image": "#"
+        "image": "/helmets/med/steel.webp"
     },
     
     {
@@ -48,7 +48,7 @@
         "armor": "+3",
         "wt": "10",
         "strreq": "d8",
-        "image": "#"
+        "image": "/chest/med/elven.webp"
     },
     {
         "title": "Elven Vambraces(Arms)",
@@ -58,7 +58,7 @@
         "armor": "+3",
         "wt": "4",
         "strreq": "d8",
-        "image": "#"
+        "image": "/braces/med/ElvenBracers.webp"
     },
     {
         "title": "Elven Greaves(Legs)",
@@ -68,7 +68,7 @@
         "armor": "+3",
         "wt": "5",
         "strreq": "d8",
-        "image": "#"
+        "image": "/greaves/med/elven.webp"
     },
     {
         "title": "Elven Helmet(Head)",
@@ -78,7 +78,7 @@
         "Parry": "+3",
         "wt": "5",
         "strreq": "d8",
-        "image": "#"
+        "image": "/helmets/med/elven.webp"
     }, 
     
     {
@@ -89,7 +89,7 @@
         "armor": "+4",
         "wt": "16",
         "strreq": "d8",
-        "image": "#"
+        "image": "/chest/med/Dwarven.webp"
     },
     {
         "title": "Dwarven Vambraces(Arms)",
@@ -99,7 +99,7 @@
         "armor": "+4",
         "wt": "6",
         "strreq": "d8",
-        "image": "#"
+        "image": "/braces/med/DwarvenBracers.webp"
     },
     {
         "title": "Dwarven Greaves(Legs)",
@@ -109,7 +109,7 @@
         "armor": "+4",
         "wt": "7",
         "strreq": "d8",
-        "image": "#"
+        "image": "/greaves/med/Dwarven.webp"
     },
     {
         "title": "Dwarven Helmet(Head)",
@@ -119,7 +119,7 @@
         "Parry": "+4",
         "wt": "7",
         "strreq": "d8",
-        "image": "#"
+        "image": "/helmets/med/dwarven.webp"
     },
     
     {
@@ -130,7 +130,7 @@
         "armor": "+4",
         "wt": "13",
         "strreq": "d8",
-        "image": "#"
+        "image": "/chest/med/glass.webp"
     },
     {
         "title": "Glass Vambraces(Arms)",
@@ -140,7 +140,7 @@
         "armor": "+4",
         "wt": "5",
         "strreq": "d8",
-        "image": "#"
+        "image": "/braces/med/glass.webp"
     },
     {
         "title": "Glass Greaves(Legs)",
@@ -150,7 +150,7 @@
         "armor": "+4",
         "wt": "6",
         "strreq": "d8",
-        "image": "#"
+        "image": "/greaves/med/glass.webp"
     },
     {
         "title": "Glass Helmet(Head)",
@@ -160,7 +160,7 @@
         "Parry": "+4",
         "wt": "6",
         "strreq": "d8",
-        "image": "#"
+        "image": "/helmets/med/glass.webp"
     }, 
     
     {
@@ -171,7 +171,7 @@
         "armor": "+5",
         "wt": "18",
         "strreq": "d8",
-        "image": "#"
+        "image": "/chest/med/Orcish.webp"
     },
     {
         "title": "Orcish Vambraces(Arms)",
@@ -181,7 +181,7 @@
         "armor": "+5",
         "wt": "7",
         "strreq": "d8",
-        "image": "#"
+        "image": "/braces/med/OrcishBracers.webp"
     },
     {
         "title": "Orcish Greaves(Legs)",
@@ -191,7 +191,7 @@
         "armor": "+5",
         "wt": "8",
         "strreq": "d8",
-        "image": "#"
+        "image": "/greaves/med/orcish.webp"
     },
     {
         "title": "Orcish Helmet(Head)",
@@ -201,6 +201,6 @@
         "Parry": "+5",
         "wt": "8",
         "strreq": "d8",
-        "image": "#"
+        "image": "/helmets/med/orcish.webp"
     }
 ]
