@@ -41,7 +41,7 @@
         "wt": "3",
         "strreq": "d6",
         "notes": "3/6/12",
-        "image": "/weapons/steel/steelThrowingAxe.webp"
+        "image": "/weapons/steel/SteelThrowingAxe.webp"
     },
     {
         "title": "Steel Dagger/Knife",
@@ -52,7 +52,7 @@
         "wt": "1",
         "strreq": "d4",
         "notes": "",
-        "image": "/weapons/steel/steelDagger.webp"
+        "image": "/weapons/steel/SteelDagger.webp"
     },
     {
         "title": "Steel Throwing Knife",
@@ -63,7 +63,7 @@
         "wt": "1",
         "strreq": "d4",
         "notes": "3/6/12",
-        "image": "/weapons/steel/steelThrowingKnife.webp"
+        "image": "/weapons/steel/SteelThrowingKnife.webp"
     },
     {
         "title": "Steel Flail",
@@ -96,7 +96,7 @@
         "wt": "3",
         "strreq": "d6",
         "notes": "2H",
-        "image": "/weapons/steel/steelkatana.webp"
+        "image": "/weapons/steel/steelKatana.webp"
     },
     {
         "title": "Steel Lance",
@@ -129,7 +129,7 @@
         "wt": "10",
         "strreq": "d10",
         "notes": "2H, +2 to break object",
-        "image": "/weapons/steel/steelMaul.webp"
+        "image": "/weapons/steel/SteelMaul.webp"
     },
     {
         "title": "Steel Pike",
@@ -184,7 +184,7 @@
         "wt": "2",
         "strreq": "d6",
         "notes": "Includes cavalary sabers",
-        "image": "/weapons/steel/steelShortSword.webp"
+        "image": "/weapons/steel/SteelShortSword.webp"
     },
     {
         "title": "Steel Long Sword",
